@@ -4,5 +4,5 @@ Made for my own amusement only: use something like [PyContracts](https://andreac
 
 Run tests with
 ```bash
-$ python3 -m unittest discover
+$ python3 -m unittest discover tests
 ```
